@@ -19,78 +19,78 @@ function App() {
           desc="Money-back guarantee"
           descLink=""
           backgroundImg={SolarPanels}
-          leftBtnTxt=""
+          leftBtnTxt="ORDER NOW"
           leftBtnLink=""
-          rightBtnTxt=""
+          rightBtnTxt="LEARN MORE"
           rightBtnLink=""
           twoButtons="true"
           first
         />
         <Item
           title="Model S"
-          desc="Money-back guarantee"
+          desc="Starting at $69,420"
           descLink=""
           backgroundImg={ModelS}
-          leftBtnTxt=""
+          leftBtnTxt="CUSTOM ORDER"
           leftBtnLink=""
-          rightBtnTxt=""
+          rightBtnTxt="EXISTING ORDER"
           rightBtnLink=""
           twoButtons="true"
         />
         <Item
           title="Model 3"
-          desc="Money-back guarantee"
+          desc="Order Online for Touchless Delivery"
           descLink=""
           backgroundImg={Model3}
-          leftBtnTxt=""
+          leftBtnTxt="CUSTOM ORDER"
           leftBtnLink=""
-          rightBtnTxt=""
+          rightBtnTxt="EXISTING ORDER"
           rightBtnLink=""
           twoButtons="true"
         />
         <Item
           title="Model X"
-          desc="Money-back guarantee"
+          desc="Order Online for Touchless Delivery"
           descLink=""
           backgroundImg={ModelX}
-          leftBtnTxt=""
+          leftBtnTxt="CUSTOM ORDER"
           leftBtnLink=""
-          rightBtnTxt=""
+          rightBtnTxt="EXISTING ORDER"
           rightBtnLink=""
           twoButtons="true"
         />
         <Item
           title="Model Y"
-          desc="Money-back guarantee"
+          desc="Order Online for Touchless Delivery"
           descLink=""
           backgroundImg={ModelY}
-          leftBtnTxt=""
+          leftBtnTxt="CUSTOM ORDER"
           leftBtnLink=""
-          rightBtnTxt=""
+          rightBtnTxt="EXISTING ORDER"
           rightBtnLink=""
           twoButtons="true"
         />
         <Item
           title="Solar for New Roofs"
-          desc="Money-back guarantee"
+          desc="Solar Roof Costs Less Than a New Roof Plus Solar Panels"
           descLink=""
           backgroundImg={SolarRoof}
-          leftBtnTxt=""
+          leftBtnTxt="ORDER NOW"
           leftBtnLink=""
-          rightBtnTxt=""
+          rightBtnTxt="LEARN MORE"
           rightBtnLink=""
           twoButtons="true"
         />
         <Item
           title="Accessories"
-          desc="Money-back guarantee"
+          desc=""
           descLink=""
           backgroundImg={Accessories}
-          leftBtnTxt=""
+          leftBtnTxt="SHOP NOW"
           leftBtnLink=""
           rightBtnTxt=""
           rightBtnLink=""
-          twoButtons="true"
+          twoButtons="false"
         />
       </div>
     </div>
